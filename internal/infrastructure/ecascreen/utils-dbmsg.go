@@ -1,0 +1,5 @@
+package ecascreen
+
+func GetMsgs() {
+
+}
