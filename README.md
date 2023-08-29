@@ -8,7 +8,6 @@
 <a href="https://github.com/andreh1982/ecaterminal/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/andreh1982/ecaterminal?color=2b9348"></a>
 <a href="https://github.com/andreh1982/ecaterminal/blob/master/LICENSE"><img src="https://img.shields.io/github/license/andreh1982/ecaterminal?color=2b9348" alt="License Badge"/></a>
 </div>
-<br>
 <p align="center"><i>Have some time to help? Please open an <a href="https://github.com/Andreh1982/ecaterminal/issues/new">Issue</a>.</i></p>
 
 ## Website
