@@ -9,21 +9,14 @@
 <a href="https://github.com/andreh1982/ecaterminal/blob/master/LICENSE"><img src="https://img.shields.io/github/license/andreh1982/ecaterminal?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
-<p align="center"><i>Have some time to help? Please open an <a href="https://linkto.issue.com">Issue</a></i></p>
+<p align="center"><i>Have some time to help? Please open an <a href="https://github.com/Andreh1982/ecaterminal/issues/new">Issue</a></i></p>
 <br>
-This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
-
-If you are intersted, will create a PR for to add your `README` profile here.
-
-If you like this Repo, Please click the :star:
-
-List of `awesome README Profile` categories mentioned below
 
 ## Website
 
 Link : https://www.linkedin.com/in/andrehtorres/
 
-# Contribute
+## :share: Contribute
 
 Contributions are always welcome! Please create a PR to add Github Profile.
 
