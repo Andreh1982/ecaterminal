@@ -1,5 +1,5 @@
 <h1 align="center">Tech Tweakers - Ecaterminal v0.0.1 </h1>
-<p align="center"><i>Well... its a mess, but its really fun to code!</i></p>
+<p align="center"><i>Well... the code is a mess, but its really fun to work on it!</i></p>
 <div align="center">
   <a href="https://github.com/andreh1982/ecaterminal/stargazers"><img src="https://img.shields.io/github/stars/andreh1982/ecaterminal" alt="Stars Badge"/></a>
 <a href="https://github.com/andreh1982/ecaterminal/network/members"><img src="https://img.shields.io/github/forks/andreh1982/ecaterminal" alt="Forks Badge"/></a>
