@@ -11,14 +11,10 @@
 <br>
 <p align="center"><i>Have some time to help? Please open an <a href="https://github.com/Andreh1982/ecaterminal/issues/new">Issue</a>.</i></p>
 
-## :share: Contribute
+## Contribute
 
 Contributions are always welcome! Please create a PR to add Github Profile.
 
-## :pencil: License
+## License
 
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
-
-## :man_astronaut: Show your support
-
-Give a ⭐️ if this project helped you!
