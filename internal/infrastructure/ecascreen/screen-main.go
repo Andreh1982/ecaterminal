@@ -146,7 +146,7 @@ func createSidebar(tasks []Task, pages *tview.Pages, app *tview.Application) tvi
 	frame := tview.NewFrame(menu)
 	frame.SetBorder(true)
 	frame.SetBorders(0, 0, 1, 1, 1, 1)
-	frame.AddText("ECATERMINAL - v1.0.0", true, tview.AlignCenter, tcell.ColorWhite)
+	frame.AddText("ECATERMINAL - v0.0.1", true, tview.AlignCenter, tcell.ColorWhite)
 	frame.AddText(bannerName, true, tview.AlignCenter, tcell.ColorRed)
 	divbar := "------------------------------------------"
 	frame.AddText(divbar, true, tview.AlignCenter, tcell.ColorWhite)
