@@ -36,4 +36,5 @@ Such awesome projects that made this possible:
 | **Go 1.21** | https://golang.org/ |
 | **TView** | https://github.com/rivo/tview/ |
 | **Go-LLama.cpp** | https://github.com/go-skynet/go-llama.cpp |
+
 Love you all! Thank you so much for your hard work! :blue_heart:
