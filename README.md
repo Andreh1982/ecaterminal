@@ -11,6 +11,23 @@
 <br>
 <p align="center"><i>Have some time to help? Please open an <a href="https://github.com/Andreh1982/ecaterminal/issues/new">Issue</a>.</i></p>
 
+## Usage
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Andreh1982/ecaterminal.git
+# Go into the repository
+$ cd ecaterminal
+# Create a folder called "models"
+$ mkdir models
+# Copy the LLM file to the models folder
+$ cp <path to LLM file> models/
+# Install dependencies
+$ go mod tidy
+# Run the app
+$ LIBRARY_PATH=$PWD C_INCLUDE_PATH=$PWD go run cmd/ecaterminal/main.go
+```
+
 ## Contribute
 
 Contributions are always welcome! Please create a PR to add Github Profile.
