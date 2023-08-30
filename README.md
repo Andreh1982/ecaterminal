@@ -13,7 +13,7 @@
 
 ## TODO
 
-A lot! :sweat_smile:
+**A lot!** :sweat_smile:
 
 ## Usage (Not tested yet)
 
