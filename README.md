@@ -11,7 +11,11 @@
 <br>
 <p align="center"><i>Have some time to help? Please open an <a href="https://github.com/Andreh1982/ecaterminal/issues/new">Issue</a>.</i></p>
 
-## Usage (Not tested yet :sweat_smile:)
+## TODO
+
+A lot! :sweat_smile:
+
+## Usage (Not tested yet)
 
 ```bash
 # Clone this repository
