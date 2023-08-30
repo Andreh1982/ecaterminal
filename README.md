@@ -28,6 +28,19 @@ $ go mod tidy
 $ LIBRARY_PATH=$PWD C_INCLUDE_PATH=$PWD go run cmd/ecaterminal/main.go
 ```
 
+## Credits
+
+Such awesome projects that made this possible:
+| Tool | Link |
+|------|------|
+| **Go 1.21** | https://golang.org/ |
+| **TView** | https://github.com/rivo/tview/ |
+| **Go-LLama.cpp** | https://github.com/go-skynet/go-llama.cpp |
+
+Love you all! Thank you so much for your hard work! <3
+
+
+
 ## Contribute
 
 Contributions are always welcome! Please create a PR to add Github Profile.
