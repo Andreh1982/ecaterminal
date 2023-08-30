@@ -1,5 +1,5 @@
 <h1 align="center">Tech Tweakers - Ecaterminal v0.0.1 </h1>
-<p align="center"><i>Well... the code is a mess, but its really fun to work on it!</i></p>
+<p align="center"><i>Well... the code is a mess, but its really fun to work on it! :poop:</i></p>
 <div align="center">
   <a href="https://github.com/andreh1982/ecaterminal/stargazers"><img src="https://img.shields.io/github/stars/andreh1982/ecaterminal" alt="Stars Badge"/></a>
 <a href="https://github.com/andreh1982/ecaterminal/network/members"><img src="https://img.shields.io/github/forks/andreh1982/ecaterminal" alt="Forks Badge"/></a>
@@ -36,15 +36,4 @@ Such awesome projects that made this possible:
 | **Go 1.21** | https://golang.org/ |
 | **TView** | https://github.com/rivo/tview/ |
 | **Go-LLama.cpp** | https://github.com/go-skynet/go-llama.cpp |
-
-Love you all! Thank you so much for your hard work! <3
-
-
-
-## Contribute
-
-Contributions are always welcome! Please create a PR to add Github Profile.
-
-## License
-
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+Love you all! Thank you so much for your hard work! :blue_heart:
