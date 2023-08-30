@@ -42,5 +42,6 @@ Such awesome projects that made this possible:
 | **TView** | https://github.com/rivo/tview/ |
 | **Go-LLama.cpp** | https://github.com/go-skynet/go-llama.cpp |
 | **LLama.cpp** | https://github.com/ggerganov/llama.cpp |
+| **The Bloke** | https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main |
 
 Love you all! Thank you so much for your hard work! :blue_heart:
